@@ -23,7 +23,7 @@ Syntax highlighted code block
 
 [Link](url) and ![Image](src)
 ```
-[test_folder](test_folder/tryhtml.html)
+[test_folder](test_folder/tryhtml.html) and
 [test_screen](test_folder/gamescreen.html)
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
