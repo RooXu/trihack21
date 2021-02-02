@@ -25,7 +25,8 @@ Syntax highlighted code block
 ```
 [test_folder](test_folder/tryhtml.html) and
 [test_screen](test_folder/gamescreen.html) and
-[pixi test](test_folder/pixi_installation_test.html)
+[pixi test](test_folder/pixi_installation_test.html) and
+[pixi_display](test_folder/pixi_display)
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
 ### Jekyll Themes
