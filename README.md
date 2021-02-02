@@ -24,7 +24,8 @@ Syntax highlighted code block
 [Link](url) and ![Image](src)
 ```
 [test_folder](test_folder/tryhtml.html) and
-[test_screen](test_folder/gamescreen.html)
+[test_screen](test_folder/gamescreen.html) and
+[pixi test](test_folder/pixi_installation_test.html)
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
 ### Jekyll Themes
