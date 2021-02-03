@@ -1,6 +1,6 @@
-## Welcome to GitHub Pages
+## Welcome!
 
-Hiiii it's Li
+See our website [here](/source/wtf).
 
 ### Markdown
 
