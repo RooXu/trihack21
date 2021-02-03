@@ -1,6 +1,6 @@
 ## Welcome!
 
-See our website [here](/source/wtf).
+See our website [here](/source/wtf.html).
 
 ### Markdown
 
