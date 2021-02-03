@@ -13,8 +13,10 @@ var sents = [
   "Avoid plastic products",
   "Don't fly if possible",
   "Use a Philly bikeshare",
-  "Reconsider online shopping cart",
-  "Switch to paperless billing"
+  "Shop less online",
+  "Switch to paperless billing",
+  "Switch to LED light bulbs",
+  "Eat less meat"
 ];
 var links = [
   "https://www.thegoodtrade.com/features/shopping-used-clothing-online",
@@ -31,7 +33,9 @@ var links = [
   "https://www.theguardian.com/environment/ng-interactive/2019/jul/19/carbon-calculator-how-taking-one-flight-emits-as-much-as-many-people-do-in-a-year",
   "https://www.rideindego.com",
   "https://www.vox.com/the-goods/22214017/online-shopping-pandemic-packaging-ecommerce-waste-plastic",
-  "https://www.environmentalleader.com/2017/10/going-paperless-penniless-corporations"
+  "https://www.environmentalleader.com/2017/10/going-paperless-penniless-corporations",
+  "https://goenergyeffective.com/blog/top-5-reasons-to-switch-to-led-lighting/",
+  "http://www.whyeatlessmeat.com/"
   
 ];
 function newQuote() {
