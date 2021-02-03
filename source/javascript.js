@@ -1,11 +1,11 @@
-var arrr = ["Google",
-            "Yahoo",
-            "Bing",
-            "Duckduckgo"][
-            "google.com",
-            "yahoo.com",
-            "bing.com",
-            "Duckduckgo"]
+var arrr = ['Googl',
+            'Yahoo',
+            'Bing',
+            'Duckduckgo'][
+            'google.com',
+            'yahoo.com',
+            'bing.com',
+            'Duckduckgo']
 function newQuote(){
 var randomNumber = Math.floor(Math.random() * arrr[0].length);
 
