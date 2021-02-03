@@ -2,10 +2,10 @@ var sents = ['Google',
             'Yahoo',
             'Bing',
             'Duckduckgo']
-var links = ["google.com",
-            "yahoo.com",
-            "bing.com",
-            "duckduckgo.com"]
+var links = ["https://www.google.com",
+            "https://www.yahoo.com",
+            "https://www.bing.com",
+            "https://www.duckduckgo.com"]
 function newQuote(){
 var randNum = Math.floor(Math.random() * sents.length);
    
