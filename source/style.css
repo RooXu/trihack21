@@ -53,6 +53,14 @@ dl {
   right: 25px;
   color: #777;
 }
+#email {
+  font-family: Helvetica, arial, sans-serif;
+  font-size: 12px;
+  position: fixed;
+  bottom: 45px;
+  right: 25px;
+  color: #777;
+}
 a:link {
   color: #000;
   text-decoration: none;
