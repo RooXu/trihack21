@@ -10,7 +10,7 @@ function newQuote(){
 var randNum = Math.floor(Math.random() * sents.length);
    
 var link = document.getElementById("myLink");
-            window.open(link.href,'_blank');
+           // window.open(link.href,'_blank');
             
     link.innerHTML = sents[randNum];
     link.setAttribute('href', links[randNum]);
