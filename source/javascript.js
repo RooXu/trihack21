@@ -8,5 +8,5 @@ var arrr = ["Google",
               "Duckduckgo"];
 var randomNumber = Math.floor(Math.random() * arrr.length);
 
-document.getElementById("suggestion_display").innerHTML = arrr[randomNumber][randomNumber];
-document.getElementById("suggestion_link").innerHTML = arrr[randomNumber][randomNumber];
+document.getElementById("suggestion_display").innerHTML = arrr[0][randomNumber];
+
